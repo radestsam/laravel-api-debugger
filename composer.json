@@ -3,7 +3,7 @@
     "description": "A Laravel package to ease the process of debugging JSON APIs.",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/hesamzakerirad/laravel-api-debugger",
+    "homepage": "https://github.com/radestsam/laravel-api-debugger",
     "keywords": [
         "laravel",
         "api",

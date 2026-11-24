@@ -1,4 +1,4 @@
-![Api Debugger Cover](https://raw.githubusercontent.com/hesamzakerirad/laravel-api-debugger/master/media/Cover.PNG "Api Debugger Cover")
+![Api Debugger Cover](https://raw.githubusercontent.com/radestsam/laravel-api-debugger/master/media/Cover.PNG "Api Debugger Cover")
 
 # Laravel Api Debugger
 
